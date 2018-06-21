@@ -20,9 +20,6 @@
 # Textmate project files
 /*.tmproj
 
-# Visual Studio Code
-.vscode
-
 # vim artifacts
 **.swp
 
